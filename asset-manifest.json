@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://spaguetto.github.io/csb-nn93f2/static/css/main.1d8a5c13.chunk.css",
+    "main.js": "https://spaguetto.github.io/csb-nn93f2/static/js/main.dfdda751.chunk.js",
+    "main.js.map": "https://spaguetto.github.io/csb-nn93f2/static/js/main.dfdda751.chunk.js.map",
+    "runtime-main.js": "https://spaguetto.github.io/csb-nn93f2/static/js/runtime-main.bd23b4db.js",
+    "runtime-main.js.map": "https://spaguetto.github.io/csb-nn93f2/static/js/runtime-main.bd23b4db.js.map",
+    "static/js/2.67223659.chunk.js": "https://spaguetto.github.io/csb-nn93f2/static/js/2.67223659.chunk.js",
+    "static/js/2.67223659.chunk.js.map": "https://spaguetto.github.io/csb-nn93f2/static/js/2.67223659.chunk.js.map",
+    "index.html": "https://spaguetto.github.io/csb-nn93f2/index.html",
+    "static/css/main.1d8a5c13.chunk.css.map": "https://spaguetto.github.io/csb-nn93f2/static/css/main.1d8a5c13.chunk.css.map",
+    "static/js/2.67223659.chunk.js.LICENSE.txt": "https://spaguetto.github.io/csb-nn93f2/static/js/2.67223659.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bd23b4db.js",
+    "static/js/2.67223659.chunk.js",
+    "static/css/main.1d8a5c13.chunk.css",
+    "static/js/main.dfdda751.chunk.js"
+  ]
+}
